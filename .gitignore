@@ -1,0 +1,27 @@
+# ---------------------
+# GIT IGNORE
+# Any file types and/or folders listed in here will not be automatically version controlled.
+# For more information, checkout this link.
+# https://infosys.beckhoff.com/english.php?content=../content/1033/tc3_sourcecontrol/18014399751953419.html&id=
+
+# ---------------------
+# Ignore these:
+# ---------------------
+*.tpy
+*.sln
+*.suo
+*.tmc
+
+# ---------------------
+# Notes:
+# ---------------------
+# *.tsproj
+# *.plcproj
+# *.TcGTLO
+# *.xti	yes
+# *.TcTTO
+# *.TcPOU
+# *.TcDUT
+# *.TcGVL
+# *.TcVis
+# *.TcVMO
